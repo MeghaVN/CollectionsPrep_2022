@@ -6,6 +6,8 @@ public class GitHubTest1 {
 		System.out.println("github..Review done.");
 		System.out.println("github...day2");
 		System.out.println("github..Review done.day2");
+		System.out.println("github...3rd commit");
+		System.out.println("github..3rd commit");
 	}
 
 }
